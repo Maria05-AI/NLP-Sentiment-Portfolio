@@ -20,8 +20,8 @@ This portfolio documents my journey, the challenges I faced with Arabic NLP (lik
 
 | Project | Language | Data Source | Key Challenge | Status |
 | :--- | :---: | :---: | :--- | :---: |
-| **[1. Arabic Sentiment Analysis ](NLP-Sentiment-Portfolio/English Sentiment Analysis/README.md)** | 🇸🇦 Arabic | Custom (Hand-crafted) | Morphology & Negation Handling | ✅ Almost Completed ( i hope to imvrope it more and make it more accurate ) |
-| **[2. English Sentiment Analysis ](./English-Sentiment-Pro)** | 🇺🇸 English | IMDB (50k Reviews) | Scalability & Generalization | ✅ Completed |
+| **[1. Arabic Sentiment Analysis ](NLP-Sentiment-Portfolio/Arabic-Sentiment-Analysis/README.md)** | 🇸🇦 Arabic | Custom (Hand-crafted) | Morphology & Negation Handling | ✅ Almost Completed ( i hope to imvrope it more and make it more accurate ) |
+| **[2. English Sentiment Analysis ](NLP-Sentiment-Portfolio/English-Sentiment-Analysis/README.md)** | 🇺🇸 English | IMDB (50k Reviews) | Scalability & Generalization | ✅ Completed |
 
 
 *Developed by Maria*
