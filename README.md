@@ -24,4 +24,4 @@ This portfolio documents my journey, the challenges I faced with Arabic NLP (lik
 | **[2. English Sentiment Analysis ](NLP-Sentiment-Portfolio/English-Sentiment-Analysis/README.md)** | 🇺🇸 English | IMDB (50k Reviews) | Scalability & Generalization | ✅ Completed |
 
 
-*Developed by Maria*
+
