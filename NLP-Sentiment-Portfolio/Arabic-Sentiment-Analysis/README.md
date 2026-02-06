@@ -20,7 +20,7 @@ One of the most interesting findings in this experiment was the **"Negation Hand
 ## Demo Output
 The model features an interactive terminal loop for live testing also for interactive testing:
 
-![Arabic Output Example](NLP-sentiment-portfolio/Arabic Sentiment Analysis/output)
+![Arabic Output Example](NLP-Sentiment-Portfolio/Arabic-Sentiment-Analysis/output)
 
 ## Tech Stack
 * Python
