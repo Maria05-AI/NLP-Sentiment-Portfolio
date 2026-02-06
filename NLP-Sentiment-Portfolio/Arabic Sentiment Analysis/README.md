@@ -17,12 +17,12 @@ One of the most interesting findings in this experiment was the **"Negation Hand
 * **Why?** Since the dataset is small (~60 samples), the model weighted the word "Good" (جيدة) heavily as a positive indicator and didn't fully grasp the negating effect of "Not" (ليست) due to the limited examples of negation in the training data.
 * **Conclusion:** This highlights the limitation of Bag-of-Words models on small datasets and demonstrates why Large Language Models (LLMs) or Deep Learning are preferred for production environments.
 
-## 📸 Demo Output
+## Demo Output
 The model features an interactive terminal loop for live testing also for interactive testing:
 
 ![Arabic Output Example](NLP-sentiment-portfolio/Arabic Sentiment Analysis/output)
 
-## 🛠️ Tech Stack
+## Tech Stack
 * Python
 * Scikit-Learn (Naive Bayes)
 * Pandas & Re (Regex)
