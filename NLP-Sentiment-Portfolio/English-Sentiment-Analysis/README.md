@@ -12,7 +12,7 @@ Unlike the manual Arabic dataset, using 50k samples allowed the model to:
 ## Demo Output
 like the previous one i made a live testing and interactive testing:
 
-![English Output Example](./english_output.png)
+All photo are in `output/` folder.
 
 ## Tech Stack
 * **Algorithm:** Logistic Regression (Industry standard for baseline benchmarks).
